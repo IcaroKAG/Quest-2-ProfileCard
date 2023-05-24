@@ -1,0 +1,14 @@
+
+@media(max-width: 578px){
+
+    main{
+        margin-top: 50%;
+    }
+}
+
+@media(max-width: 1100px){
+
+    main{
+        margin-top: 20%;
+    }
+}
